@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Sisira07/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Sisira07/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sisira07/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/Sisira07/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Sisira07/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sisira07/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Sisira07/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Sisira07/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sisira07/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Sisira07/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sisira07/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
