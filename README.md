@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Sisira07/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sisira07/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Sisira07/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
