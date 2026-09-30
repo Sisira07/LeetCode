@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Sisira07/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Sisira07/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Sisira07/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sisira07/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Sisira07/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/Sisira07/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sisira07/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/Sisira07/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sisira07/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
