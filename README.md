@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Sisira07/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Sisira07/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Sisira07/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Sisira07/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,4 +151,5 @@ Collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/Sisira07/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Sisira07/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Sisira07/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Sisira07/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
