@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Sisira07/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0344-reverse-string](https://github.com/Sisira07/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sisira07/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1154-day-of-the-year](https://github.com/Sisira07/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
 | [1927-sum-game](https://github.com/Sisira07/LeetCode/tree/main/1927-sum-game/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Sisira07/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0202-happy-number](https://github.com/Sisira07/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sisira07/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1154-day-of-the-year](https://github.com/Sisira07/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
 | [1927-sum-game](https://github.com/Sisira07/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sisira07/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Sisira07/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
