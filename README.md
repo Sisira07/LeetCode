@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/Sisira07/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sisira07/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Sisira07/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sisira07/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sisira07/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sisira07/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Prefix Sum
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Sisira07/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sisira07/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Sisira07/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sisira07/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Sisira07/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Sisira07/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sisira07/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sisira07/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
