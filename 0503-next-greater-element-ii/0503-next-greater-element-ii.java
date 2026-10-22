@@ -10,11 +10,13 @@ class Solution {
             while(!stk.empty() && stk.peek()<=nums[idx]){
                 stk.pop();
             }
-            if(stk.empty()){
+            if(i<n){
+                if(stk.empty()){
                 ans[idx]=-1;
             }
             else{
                 ans[idx]=stk.peek();
+            }
             }
             stk.push(nums[idx]);
         }
