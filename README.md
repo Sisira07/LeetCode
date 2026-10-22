@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Sisira07/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Sisira07/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Sisira07/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/Sisira07/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Sisira07/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sisira07/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Sisira07/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/Sisira07/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Sisira07/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sisira07/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0739-daily-temperatures](https://github.com/Sisira07/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Sisira07/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Sisira07/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
