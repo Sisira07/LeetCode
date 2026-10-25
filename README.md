@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sisira07/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Sisira07/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sisira07/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/Sisira07/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sisira07/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sisira07/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Prefix Sum
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/Sisira07/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Sisira07/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Sisira07/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Sisira07/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/Sisira07/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Sisira07/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Sisira07/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/Sisira07/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
