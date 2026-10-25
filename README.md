@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/Sisira07/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sisira07/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Sisira07/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Sisira07/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sisira07/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sisira07/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Prefix Sum
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Sisira07/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Sisira07/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sisira07/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Sisira07/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Sisira07/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Sisira07/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Sisira07/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Sisira07/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/Sisira07/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sisira07/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1927-sum-game](https://github.com/Sisira07/LeetCode/tree/main/1927-sum-game/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Sisira07/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
