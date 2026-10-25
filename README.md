@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/Sisira07/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Sisira07/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Sisira07/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0860-lemonade-change](https://github.com/Sisira07/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Sisira07/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Sisira07/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sisira07/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Sisira07/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0455-assign-cookies](https://github.com/Sisira07/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sisira07/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0860-lemonade-change](https://github.com/Sisira07/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [1927-sum-game](https://github.com/Sisira07/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Sisira07/LeetCode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Database
