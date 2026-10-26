@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sisira07/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Sisira07/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Sisira07/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/Sisira07/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sisira07/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Sisira07/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Sisira07/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Sisira07/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sisira07/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sisira07/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Sisira07/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sisira07/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/Sisira07/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/Sisira07/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sisira07/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/Sisira07/LeetCode/tree/main/0860-lemonade-change/) | Easy |
