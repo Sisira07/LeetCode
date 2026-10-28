@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Sisira07/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sisira07/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Sisira07/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0045-jump-game-ii](https://github.com/Sisira07/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Sisira07/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/Sisira07/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sisira07/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Sisira07/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Sisira07/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/Sisira07/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sisira07/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sisira07/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/Sisira07/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Sisira07/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/Sisira07/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sisira07/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
