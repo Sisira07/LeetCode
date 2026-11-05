@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/Sisira07/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Sisira07/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sisira07/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Sisira07/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Sisira07/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Sisira07/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Sorting
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Sisira07/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sisira07/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sisira07/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Sisira07/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Sisira07/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Sisira07/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sisira07/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sisira07/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Sisira07/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Sisira07/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0242-valid-anagram](https://github.com/Sisira07/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Sisira07/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sisira07/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1154-day-of-the-year](https://github.com/Sisira07/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
