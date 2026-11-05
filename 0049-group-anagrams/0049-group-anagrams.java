@@ -2,22 +2,15 @@ class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         HashMap<String,List<String>> mpp=new HashMap<>();
 
-        for(String str:strs){
-            int[] freq=new int[26];
-            for(int i=0;i<str.length();i++){
-                freq[str.charAt(i)-'a']++;
+        for(String s:strs){
+            char[] arr=s.toCharArray();
+            Arrays.sort(arr);
+            String sorted=new String(arr);
+            if(!mpp.containsKey(sorted)){
+                mpp.put(sorted,new ArrayList<>());
             }
-            String freqstr=Arrays.toString(freq);
-            if(mpp.containsKey(freqstr)){
-                mpp.get(freqstr).add(str);          
-            }
-            else{
-                List<String> arr=new ArrayList<>();
-                arr.add(str);
-                mpp.put(freqstr,arr);
-            }
+            mpp.get(sorted).add(s);
         }
-        List<List<String>> res=new ArrayList<>(mpp.values());
-        return res;
+        return new ArrayList<>(mpp.values());
     }
 }
