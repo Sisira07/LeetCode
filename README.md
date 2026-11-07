@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Sisira07/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sisira07/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Sisira07/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sisira07/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Sisira07/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sisira07/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Sisira07/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/Sisira07/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sisira07/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sisira07/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sisira07/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Sisira07/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sisira07/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Sisira07/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
