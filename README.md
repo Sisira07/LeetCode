@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/Sisira07/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Sisira07/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sisira07/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Sisira07/LeetCode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sisira07/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sisira07/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Sisira07/LeetCode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
