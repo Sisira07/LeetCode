@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sisira07/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Sisira07/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sisira07/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/Sisira07/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Sisira07/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sisira07/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Sisira07/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Sisira07/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sisira07/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Sisira07/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0169-majority-element](https://github.com/Sisira07/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Sisira07/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sisira07/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sisira07/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Sisira07/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Sisira07/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sisira07/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Sisira07/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sisira07/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sisira07/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sisira07/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -269,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Sisira07/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/Sisira07/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sisira07/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -281,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Sisira07/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sisira07/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -290,4 +295,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Sisira07/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Sisira07/LeetCode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
