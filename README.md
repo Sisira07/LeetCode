@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/Sisira07/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Sisira07/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Sisira07/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0819-most-common-word](https://github.com/Sisira07/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [0860-lemonade-change](https://github.com/Sisira07/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Sisira07/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Sisira07/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Sisira07/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sisira07/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Sisira07/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0819-most-common-word](https://github.com/Sisira07/LeetCode/tree/main/0819-most-common-word/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Sisira07/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Sisira07/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Sisira07/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0819-most-common-word](https://github.com/Sisira07/LeetCode/tree/main/0819-most-common-word/) | Easy |
 | [1154-day-of-the-year](https://github.com/Sisira07/LeetCode/tree/main/1154-day-of-the-year/) | Easy |
 | [1927-sum-game](https://github.com/Sisira07/LeetCode/tree/main/1927-sum-game/) | Medium |
 ## Math
@@ -288,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Sisira07/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sisira07/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0819-most-common-word](https://github.com/Sisira07/LeetCode/tree/main/0819-most-common-word/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
