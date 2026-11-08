@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Sisira07/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sisira07/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sisira07/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0075-sort-colors](https://github.com/Sisira07/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sisira07/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Sisira07/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sisira07/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0015-3sum](https://github.com/Sisira07/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Sisira07/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/Sisira07/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sisira07/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Sisira07/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Sisira07/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Sisira07/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sisira07/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sisira07/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/Sisira07/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sisira07/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Sisira07/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Sisira07/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -260,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Sisira07/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/Sisira07/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -282,4 +286,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sisira07/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Sisira07/LeetCode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
